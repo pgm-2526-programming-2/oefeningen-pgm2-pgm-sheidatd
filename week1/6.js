@@ -10,10 +10,9 @@ function doMath(x , y , fn) {
 console.log(doMath( 5 , 3 , sum));
 
 
-// tamrin 6 : 
+// oefening  6 : 
 function mainLogic(callback) {
-  // تابع مادر
-  callback(); // اجرای callback
+  callback(); 
 }
 
 function myCallback() {
